@@ -34,5 +34,5 @@ Shortcuts I use fequently
 
 Shortcuts I should use more
 * Ctrl-C (I don't know why but I use my mouse, or drag'n'drop)
-* Ctrl-Z (Cutting command. I am silly and often copy paste then delete the old. Very innefficient)
+* Ctrl-X (Cutting command. I am silly and often copy paste then delete the old. Very innefficient)
 * Ctrl-A (Select all. I should use this instead of furiously clicking my mouse hoping it will select all)
