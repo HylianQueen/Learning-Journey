@@ -25,3 +25,14 @@ Links - For Learning Internet Culture
 * :flushed: - Means I am embarassed
 * :smirk: - Means I feel devious
 * :smirk_cat: Means I feel devious but this time dressed as a cat
+
+## Keyboard Shortcuts
+Shortcuts I use fequently
+* Alt-Tab (Alternate between active windows/programs)
+* Win-P (Change display settings for multiple monitors)
+* Win-L (Locking my PC)
+
+Shortcuts I should use more
+* Ctrl-C (I don't know why but I use my mouse, or drag'n'drop)
+* Ctrl-Z (Cutting command. I am silly and often copy paste then delete the old. Very innefficient)
+* Ctrl-A (Select all. I should use this instead of furiously clicking my mouse hoping it will select all)
