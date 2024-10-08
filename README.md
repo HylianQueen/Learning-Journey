@@ -38,4 +38,4 @@ Shortcuts I should use more
 * Ctrl-A (Select all. I should use this instead of furiously clicking my mouse hoping it will select all)
 
 
-[Cli Commands] (cli.md)
+[Cli Commands] (docs/cli.md)
